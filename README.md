@@ -8,6 +8,7 @@
              - brazilian, pt-br + eng + learning russian.<br>
              - systems analysis and development student.<br>
              - working as a front-end developer intern.<br>
+             - ui design focus on mobile design.<br>
       <br>
       <br>
       <br>
@@ -20,7 +21,7 @@
       <br>
       <br>
       os:<br>
-        > fedora 40 (main), win10.
+        > fedora (main), win10.
       <br>
       <br>
       tools:<br>
@@ -29,6 +30,9 @@
           - <a href="https://obsidian.md/">obsidian</a> - notes taking<br> 
      <br>
      <br>
+     portfolio:<br>
+         --in progress--
+      <b>
     </samp>
   </p>
 </p>

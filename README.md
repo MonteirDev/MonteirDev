@@ -5,7 +5,7 @@
       <br>
       <br>
       about me:<br>
-             - brazilian, pt-br + eng + learning russian.<br>
+             - brazilian, pt-br + eng.<br>
              - systems analysis and development student.<br>
              - working as a front-end developer intern.<br>
              - ui design focus on mobile design.<br>

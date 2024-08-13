@@ -16,7 +16,7 @@
       <br>
       <br>
       learning:<br>
-          > react, kotlin
+          > react, kotlin, java
       <br>
       <br>
       os:<br>

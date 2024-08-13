@@ -1,16 +1,34 @@
-## Hi there 👋
-
-<!--
-**bjmontr/bjmontr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p float="left">
+ <img src="https://github.com/bjmontr/bjmontr/blob/main/side_imgs/img1.jpg" width="500" align="left">
+  <p float="left">
+    <samp>
+      <br>
+      <br>
+      about me:<br>
+             - brazilian, pt-br + eng + learning russian.<br>
+             - systems analysis and development student.<br>
+             - working as a front-end developer intern.<br>
+      <br>
+      <br>
+      <br>
+      langs:<br>
+          > javascript, typescript, python
+      <br>
+      <br>
+      learning:<br>
+          > react, kotlin
+      <br>
+      <br>
+      os:<br>
+        > fedora 40 (main), win10.
+      <br>
+      <br>
+      tools:<br>
+          - <a href="https://github.com/mandiant/flare-vm">postman</a> - api<br>
+          - <a href="https://www.genymotion.com/">docker</a> - containerization <br>
+          - <a href="https://obsidian.md/">obsidian</a> - notes taking<br> 
+     <br>
+     <br>
+    </samp>
+  </p>
+</p>

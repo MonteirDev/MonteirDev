@@ -7,7 +7,7 @@
       ├── /bio:<br>
              │&nbsp;&nbsp;&nbsp;├── brazilian, pt-br + eng.<br>
              │&nbsp;&nbsp;&nbsp;├── systems analysis and development student.<br>
-             │&nbsp;&nbsp;&nbsp;├── working as a front-end developer intern.<br>
+             │&nbsp;&nbsp;&nbsp;└── working as a front-end developer intern.<br>
       │<br>
       ├── /langs:<br>
           │&nbsp;&nbsp;&nbsp;├── javascript <br>
@@ -16,7 +16,7 @@
       │<br>
       ├── /learning:<br>
           │&nbsp;&nbsp;&nbsp;├── spring <br>
-          │&nbsp;&nbsp;&nbsp;├── kotlin <br>
+          │&nbsp;&nbsp;&nbsp;└── kotlin <br>
       │ <br>
       ├── /os:<br>
         │&nbsp;&nbsp;&nbsp;├── win 10 (main) <br>

@@ -8,21 +8,19 @@
              │&nbsp;&nbsp;&nbsp;├── brazilian, pt-br + eng.<br>
              │&nbsp;&nbsp;&nbsp;├── systems analysis and development student.<br>
              │&nbsp;&nbsp;&nbsp;├── working as a front-end developer intern.<br>
-             │&nbsp;&nbsp;&nbsp;└── ui design focus on mobile design.<br>
       │<br>
       ├── /langs:<br>
           │&nbsp;&nbsp;&nbsp;├── javascript <br>
-          │&nbsp;&nbsp;&nbsp;├── typescript <br>
+          │&nbsp;&nbsp;&nbsp;├── java <br>
           │&nbsp;&nbsp;&nbsp;└── python <br>
       │<br>
       ├── /learning:<br>
-          │&nbsp;&nbsp;&nbsp;├── react <br>
+          │&nbsp;&nbsp;&nbsp;├── spring <br>
           │&nbsp;&nbsp;&nbsp;├── kotlin <br>
-          │&nbsp;&nbsp;&nbsp;└── java <br>
       │ <br>
       ├── /os:<br>
-        │&nbsp;&nbsp;&nbsp;├── fedora (main) <br>
-        │&nbsp;&nbsp;&nbsp;└── win 10 <br>
+        │&nbsp;&nbsp;&nbsp;├── win 10 (main) <br>
+        │&nbsp;&nbsp;&nbsp;└── fedora <br>
       │ <br>
       └── /tools:<br>
           &nbsp;&nbsp;&nbsp;├── <a href="https://github.com/mandiant/flare-vm">postman</a> - api<br>

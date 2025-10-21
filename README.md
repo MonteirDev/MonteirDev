@@ -12,11 +12,12 @@
       ├── /langs:<br>
           │&nbsp;&nbsp;&nbsp;├── javascript <br>
           │&nbsp;&nbsp;&nbsp;├── java <br>
+          │&nbsp;&nbsp;&nbsp;├── php <br>
           │&nbsp;&nbsp;&nbsp;└── python <br>
       │<br>
-      ├── /learning:<br>
+      ├── /frameworks:<br>
           │&nbsp;&nbsp;&nbsp;├── spring <br>
-          │&nbsp;&nbsp;&nbsp;└── kotlin <br>
+          │&nbsp;&nbsp;&nbsp;└── laravel <br>
       │ <br>
       ├── /os:<br>
         │&nbsp;&nbsp;&nbsp;├── win 10 (main) <br>

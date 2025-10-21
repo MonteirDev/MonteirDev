@@ -7,7 +7,6 @@
       ├── /bio:<br>
              │&nbsp;&nbsp;&nbsp;├── brazilian, pt-br + eng.<br>
              │&nbsp;&nbsp;&nbsp;├── systems analysis and development student.<br>
-             │&nbsp;&nbsp;&nbsp;└── working as a front-end developer intern.<br>
       │<br>
       ├── /langs:<br>
           │&nbsp;&nbsp;&nbsp;├── javascript <br>
